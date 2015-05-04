@@ -150,3 +150,39 @@
 2015-05-04 19:51:16,252 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab11_sol\src\main\resources
 2015-05-04 19:51:16,252 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-05-04 19:51:16,252 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab11_sol\src\test\resources
+2015-05-04 19:54:09,284 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\csd2015\java-ws-eclipse\lab12_sol\pom.xml
+2015-05-04 19:54:09,472 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab12_sol:0.0.1-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab12_sol\pom.xml.
+2015-05-04 19:54:09,753 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab12_sol/src/main/java
+2015-05-04 19:54:09,784 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab12_sol/src/test/java
+2015-05-04 19:54:09,956 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-05-04 19:54:10,519 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab12_sol:0.0.1-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab12_sol\pom.xml.
+2015-05-04 19:54:10,909 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:10,909 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\main\resources
+2015-05-04 19:54:10,909 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:10,909 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\test\resources
+2015-05-04 19:54:11,347 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab12_sol:0.0.1-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab12_sol\pom.xml.
+2015-05-04 19:54:12,003 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:12,018 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\main\resources
+2015-05-04 19:54:12,018 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:12,018 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\test\resources
+2015-05-04 19:54:22,636 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab12_sol:1.0-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab12_sol\pom.xml.
+2015-05-04 19:54:23,011 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:23,011 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\main\resources
+2015-05-04 19:54:23,011 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:23,011 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\test\resources
+2015-05-04 19:54:24,292 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:24,292 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\main\resources
+2015-05-04 19:54:24,292 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:24,292 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\test\resources
+2015-05-04 19:54:27,312 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:27,312 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\main\resources
+2015-05-04 19:54:27,328 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:27,328 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\test\resources
+2015-05-04 19:54:32,314 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:32,314 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\main\resources
+2015-05-04 19:54:32,314 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:32,314 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\test\resources
+2015-05-04 19:54:36,460 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:36,460 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\main\resources
+2015-05-04 19:54:36,460 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:54:36,460 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\test\resources

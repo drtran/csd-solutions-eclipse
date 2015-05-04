@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="java" project="lab2_sol" tests="17" started="17" failures="0" errors="0" ignored="0">
+  <testsuite name="com.bemach.labguide.lab2.MultipleOfThreeAndFiveSolverTest" time="0.008">
+    <testcase name="shouldReturnTrueForMultipleOfThree" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveSolverTest" time="0.001"/>
+    <testcase name="shouldCreateAnObject" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveSolverTest" time="0.001"/>
+    <testcase name="shouldReturnFalseForMultipleOfThreeAndFive" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveSolverTest" time="0.0"/>
+    <testcase name="shouldReturnFalseForMultipleOfFive" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveSolverTest" time="0.0"/>
+    <testcase name="shouldReturnTrueForMultipleOfThreeAndFive" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveSolverTest" time="0.0"/>
+    <testcase name="shouldReturnFalseForMultipleOfThree" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveSolverTest" time="0.0"/>
+    <testcase name="shouldReturnTrueForMultipleOfFive" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveSolverTest" time="0.005"/>
+  </testsuite>
+  <testsuite name="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.005">
+    <testsuite name="[0]" time="0.002">
+      <testcase name="shouldCreateAnObject[0]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.001"/>
+      <testcase name="shouldValidateForMultipleOfThreeOrFive[0]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.001"/>
+    </testsuite>
+    <testsuite name="[1]" time="0.002">
+      <testcase name="shouldCreateAnObject[1]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.001"/>
+      <testcase name="shouldValidateForMultipleOfThreeOrFive[1]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.001"/>
+    </testsuite>
+    <testsuite name="[2]" time="0.001">
+      <testcase name="shouldCreateAnObject[2]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.0"/>
+      <testcase name="shouldValidateForMultipleOfThreeOrFive[2]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.001"/>
+    </testsuite>
+    <testsuite name="[3]" time="0.0">
+      <testcase name="shouldCreateAnObject[3]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.0"/>
+      <testcase name="shouldValidateForMultipleOfThreeOrFive[3]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[4]" time="0.0">
+      <testcase name="shouldCreateAnObject[4]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.0"/>
+      <testcase name="shouldValidateForMultipleOfThreeOrFive[4]" classname="com.bemach.labguide.lab2.MultipleOfThreeAndFiveUseParameterizedTest" time="0.0"/>
+    </testsuite>
+  </testsuite>
+</testrun>

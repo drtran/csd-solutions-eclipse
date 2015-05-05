@@ -282,3 +282,55 @@
 2015-05-04 20:00:17,652 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\main\resources
 2015-05-04 20:00:17,652 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-05-04 20:00:17,652 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-04 20:03:39,842 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 20:03:39,842 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\main\resources
+2015-05-04 20:03:39,842 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 20:03:39,842 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-04 20:04:09,721 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\csd2015\java-ws-eclipse\lab13_sol\pom.xml
+2015-05-04 20:04:10,033 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab13_sol:0.0.1-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab13_sol\pom.xml.
+2015-05-04 20:04:10,377 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab13_sol/src/main/java
+2015-05-04 20:04:10,377 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lab13_sol/src/main/resources
+2015-05-04 20:04:10,377 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab13_sol/src/test/java
+2015-05-04 20:04:11,644 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-05-04 20:04:12,259 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab13_sol:0.0.1-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab13_sol\pom.xml.
+2015-05-04 20:04:12,635 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:12,637 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-04 20:04:12,639 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:12,640 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab13_sol\src\test\resources
+2015-05-04 20:04:13,516 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab13_sol:0.0.1-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab13_sol\pom.xml.
+2015-05-04 20:04:13,938 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:13,954 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-04 20:04:13,954 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:13,954 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab13_sol\src\test\resources
+2015-05-04 20:04:28,347 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab13_sol:1.0-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab13_sol\pom.xml.
+2015-05-04 20:04:28,722 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:28,722 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-04 20:04:28,722 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:28,722 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab13_sol\src\test\resources
+2015-05-04 20:04:28,722 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of lab13_sol
+2015-05-04 20:04:28,722 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for lab13_sol
+2015-05-04 20:04:28,753 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:35,533 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:35,533 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-04 20:04:35,533 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:35,533 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab13_sol\src\test\resources
+2015-05-04 20:04:50,276 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-04 20:04:50,416 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab13_sol:1.0-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab13_sol\pom.xml.
+2015-05-04 20:04:50,588 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab13_sol/src/main/java
+2015-05-04 20:04:50,588 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lab13_sol/src/main/resources
+2015-05-04 20:04:50,588 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab13_sol/src/test/java
+2015-05-04 20:04:51,955 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab13_sol:1.0-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab13_sol\pom.xml.
+2015-05-04 20:04:52,080 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for lab13_sol
+2015-05-04 20:04:52,096 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-05-04 20:04:52,531 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:52,531 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-04 20:04:52,531 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:04:52,531 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab13_sol\src\test\resources
+2015-05-04 20:07:11,274 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:07:11,290 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-04 20:07:11,290 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:07:11,290 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab13_sol\src\test\resources
+2015-05-04 20:07:17,913 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:07:17,913 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-04 20:07:17,913 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-04 20:07:17,929 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab13_sol\src\test\resources

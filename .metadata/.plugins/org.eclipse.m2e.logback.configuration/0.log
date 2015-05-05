@@ -235,3 +235,50 @@
 2015-05-04 19:57:51,925 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-05-04 19:57:51,925 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-05-04 19:57:51,925 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab13_sol\src\test\resources
+2015-05-04 19:58:46,148 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:58:46,148 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-04 19:58:46,148 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:58:46,148 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab12_sol\src\test\resources
+2015-05-04 19:59:17,038 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\csd2015\java-ws-eclipse\lab17_sol\pom.xml
+2015-05-04 19:59:17,272 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab17_sol:0.0.1-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab17_sol\pom.xml.
+2015-05-04 19:59:17,538 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab17_sol/src/main/java
+2015-05-04 19:59:17,538 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab17_sol/src/test/java
+2015-05-04 19:59:17,694 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-05-04 19:59:18,647 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab17_sol:0.0.1-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab17_sol\pom.xml.
+2015-05-04 19:59:19,163 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:19,163 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\main\resources
+2015-05-04 19:59:19,163 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:19,163 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\test\resources
+2015-05-04 19:59:20,272 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab17_sol:0.0.1-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab17_sol\pom.xml.
+2015-05-04 19:59:20,522 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:20,522 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\main\resources
+2015-05-04 19:59:20,522 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:20,522 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\test\resources
+2015-05-04 19:59:27,907 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:27,907 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\main\resources
+2015-05-04 19:59:27,907 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:27,907 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\test\resources
+2015-05-04 19:59:39,708 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab17_sol:1.0-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab17_sol\pom.xml.
+2015-05-04 19:59:45,811 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:45,811 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\main\resources
+2015-05-04 19:59:45,811 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:45,811 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-04 19:59:48,839 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:48,855 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\main\resources
+2015-05-04 19:59:48,855 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 19:59:48,855 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-04 19:59:52,228 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-04 19:59:52,462 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab17_sol:1.0-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab17_sol\pom.xml.
+2015-05-04 19:59:55,549 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab17_sol/src/main/java
+2015-05-04 19:59:55,549 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lab17_sol/src/test/java
+2015-05-04 19:59:55,549 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lab17_sol/src/test/resources
+2015-05-04 19:59:56,424 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bemach.labguide:lab17_sol:1.0-SNAPSHOT @ C:\csd2015\java-ws-eclipse\lab17_sol\pom.xml.
+2015-05-04 19:59:57,564 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2015-05-04 20:00:00,352 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 20:00:00,352 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\main\resources
+2015-05-04 20:00:00,352 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 20:00:00,352 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-04 20:00:17,652 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 20:00:17,652 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\csd2015\java-ws-eclipse\lab17_sol\src\main\resources
+2015-05-04 20:00:17,652 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-04 20:00:17,652 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
